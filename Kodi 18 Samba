@@ -1,0 +1,11 @@
+Adding Samba Networkfolders do not work as expected.
+
+1. Add videos...
+2. Browse
+3. Windows network (SMB)
+4. OK
+5. Click on smb://
+6. Type path to folder eg smb://windows10/homevideo
+7. OK
+8. OK
+9. Your choice
